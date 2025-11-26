@@ -1,2 +1,0 @@
-# Clank-AI-Sitemap
-Sitemap
